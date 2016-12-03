@@ -1,0 +1,41 @@
+.header{
+	margin: 0 auto;
+	height: 80px;
+	width: 400px;
+	padding: 15px;
+}
+
+button {
+	height: 40px;
+	width: 100px;
+	border-radius: 10px;
+	background-color: orange;
+	color: black;
+	border: 5px solid blue;
+}
+
+#pickColor {
+	float: left;
+}
+#pickSize {
+	float: right;
+}
+
+.container {
+	margin: 0 auto;
+	height: 600px;
+	width: 600px;
+	border: 3px solid black;
+	display: block;
+	text-align: center;
+}
+
+.tile {
+	padding: 0px;
+	margin: 0px;
+	float: left;
+}
+
+.grey {
+	background-color: grey;
+}
