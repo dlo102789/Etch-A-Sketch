@@ -6,7 +6,7 @@
   * CSS
   * Javascript
   * JQuery
-* Go to https://dlo102789.github.io/Etch-a-Sketch to see more.
+* Go to https://dlo102789.github.io/Etch-A-Sketch to see more.
 
 
 Created by Derek Lo
